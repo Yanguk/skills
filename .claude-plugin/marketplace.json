@@ -8,7 +8,7 @@
     {
       "name": "skills",
       "source": "./plugins/skills",
-      "description": "TypeScript 작성·리뷰 컨벤션 스킬"
+      "description": "TypeScript/TSX 작성·리뷰, 함수형 유틸리티, Git 커밋 컨벤션을 위한 Claude Code 스킬 모음"
     }
   ]
 }
