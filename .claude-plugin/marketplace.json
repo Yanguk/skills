@@ -1,0 +1,14 @@
+{
+  "name": "skills",
+  "description": "Yanguk의 개인 Claude Code 플러그인 모음",
+  "owner": {
+    "name": "Yanguk Heo"
+  },
+  "plugins": [
+    {
+      "name": "skills",
+      "source": "./plugins/skills",
+      "description": "TypeScript 작성·리뷰 컨벤션 스킬"
+    }
+  ]
+}
