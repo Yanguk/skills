@@ -13,14 +13,14 @@ Claude Code 플러그인 marketplace.
 Claude Code 안에서:
 
 ```
-/plugin marketplace add Yangub/skills
+/plugin marketplace add Yanguk/skills
 /plugin install skills@skills
 ```
 
 터미널에서:
 
 ```sh
-claude plugin marketplace add Yangub/skills
+claude plugin marketplace add Yanguk/skills
 claude plugin install skills@skills
 ```
 
