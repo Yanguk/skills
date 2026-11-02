@@ -1,5 +1,5 @@
 ---
-name: convention
+name: ts-convention
 description: TypeScript/TSX 코드를 작성·수정·리뷰할 때 적용하는 컨벤션. .ts/.tsx 파일 편집, 반복문·클래스·변수 선언·제어문 작성, React 컴포넌트·훅 작성 시 사용.
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: conventional-commits
+name: git-conventional-commits
 description: Write Conventional Commits — the type(scope)!: subject + body + footer spec — so history is readable and changelogs and SemVer bumps can be derived automatically. Use when committing, configuring commitlint, designing release tooling, or deciding feat vs fix vs breaking change.
 type: skill
 version: 2.0.0

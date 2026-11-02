@@ -1,5 +1,5 @@
 ---
-name: fp
+name: ts-fp
 description: TypeScript에서 의존성 없이 쓰는 FP 유틸 모음. 값이 없을 수 있는 반환(null/undefined 대신 Option), 실패 이유를 함께 돌려주는 반환(throw 대신 Result), unwrap/expect가 필요할 때, ts-results 같은 라이브러리를 들이지 않고 Option/Result 타입을 쓰고 싶을 때 사용.
 ---
 
